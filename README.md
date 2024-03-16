@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a student interested in computers, science and computer science 🧑‍💻.
+I'm a student into computers, science and computer science 🧑‍💻.
 
 ### My Achievements
 - Apple WWDC Swift Student Challenge Winner (2023)
@@ -13,20 +13,20 @@ I'm a student interested in computers, science and computer science 🧑‍💻.
 - [Lemoney 🍋](https://github.com/dishi0812/lemoney): iOS Budgeting app for students. Made with my teammates from Swift Accelerator Programme in 2022
 - [l1r5](https://l1r5.vercel.app/): L1R5 Score Calculator
 - [IceTube](https://icetube.vercel.app/): Watch movies and tv shows using Vidsrc and IMDB API 🍿
-- [gooddayapp](https://gooddayapp.vercel.app/): Write special greetings and messages to loved ones! Uses Canvas APi
+- [gooddayapp](https://gooddayapp.vercel.app/): Write special greetings and messages to loved ones! Uses Canvas API
 - [Spella](https://spelling-zui.vercel.app/): Spelling app made with Web Speech API. Customisation of voice, pitch, and speech rate is available
 - [Stationæry](https://github.com/ic1y/stationaery): A powerful e-dictionary with print and history (uses localstorage) functions
 
-### My Skills
+### What I can do
 - Swift (App Dev 📱)
-- Python 🐍 (Web scraping, Data Visualisation)
+- Python 🐍 (Web Scraping, Data Visualisation)
 - HTML 🌐
 - CSS 💅
-- Javascript ⚙️ (vanilla)
+- Javascript ⚙️ (Web Dev)
+- Git Version Control
 
-### Stuff I'm learning
+### What I'm currently learning
 - React framework
-- Rust
 - Java
 - Flask
 - SQL
@@ -34,7 +34,7 @@ I'm a student interested in computers, science and computer science 🧑‍💻.
 
 ### Fun facts about me
 - I love books! Fantasy, detective fiction, science fiction...
-- I like Chemistry
+- I like Chemistry in particular
 - I can also speak Chinese! 我也会说中文
   
 ### Contact
