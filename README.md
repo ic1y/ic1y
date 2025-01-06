@@ -13,7 +13,6 @@ I'm a student into computers, science and computer science 🧑‍💻.
 - [Lemoney 🍋](https://github.com/dishi0812/lemoney): iOS Budgeting app for students. Made with my teammates from Swift Accelerator Programme in 2022
 - [Focus: Productivity gamified](https://focus-9eqm.onrender.com/): Pomodoro timer app with to-do list, achievements, list and music
 - [l1r5](https://l1r5.vercel.app/): L1R5 Score Calculator
-- [IceTube](https://icetube.vercel.app/): Watch movies and tv shows using Vidsrc and IMDB API 🍿
 - [gooddayapp](https://gooddayapp.vercel.app/): Write special greetings and messages to loved ones! Uses Canvas API
 - [Spella](https://spelling-zui.vercel.app/): Spelling app made with Web Speech API. Customisation of voice, pitch, and speech rate is available
 - [Stationæry](https://github.com/ic1y/stationaery): A powerful e-dictionary with print and history (uses localstorage) functions
